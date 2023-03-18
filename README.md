@@ -1,2 +1,3 @@
 # Form_Submit
-A sign up page whose content should go to the Flask Backend
+A sign up page whose content should go to the Flask Backend for Manipulation
+
